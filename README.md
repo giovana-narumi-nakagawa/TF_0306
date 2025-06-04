@@ -9,7 +9,6 @@ Este repositório contém os arquivos e instruções para implantar uma aplicaç
 - Git
 
 ### 1. Iniciar o Minikube
-```bash
 minikube start
 
 ### Comandos para criar o Deployment e o Services:
